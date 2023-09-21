@@ -44,7 +44,7 @@
           "id": 6,
           "titulo": "Thor",
           "resumo":"Campeao do arremesso de martelo",
-          "atores":"Gal Gadot",
+          "atores":"Chris Hemsworth",
           "capa":"https://upload.wikimedia.org/wikipedia/pt/thumb/9/9f/Thor_Poster.jpg/250px-Thor_Poster.jpg",
           "duracao":130
       }
@@ -77,7 +77,7 @@
         }
          {
             "id": 6,
-            "nome":"Gal Gadot",
+            "nome":"Chris Hemsworth",
             "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9f/Thor_Poster.jpg/250px-Thor_Poster.jpg"      
         }
          
