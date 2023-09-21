@@ -49,37 +49,36 @@
           "duracao":130
       }
     ],
-     "atores": [
-        {
-            "id": 1,
-            "nome":"Robert Downey",
-            "avatar": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
-        }
-         {
-            "id": 2,
-            "nome":"Henry Cavill",
-            "avatar": "https://miro.medium.com/v2/resize:fit:1400/1*gOLsKIf2ciZsaXvsDrSqnQ.jpeg"      
-        }
-         {
-            "id": 3,
-            "nome":"Robert Pattinson",
-            "avatar": "https://i0.wp.com/tracklist.com.br/wp-content/uploads/2022/01/Batman-cartaz.jpg?fit=758%2C948&ssl=1"      
-        }
-         {
-            "id": 4,
-            "nome":"Gal Gadot",
-            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-Coz7aGQhxiL4qGLx5sSIQo7QTU34rOX2SvUqMqNTRtAlM0r_81iKAD0viZgIPCPxxs&usqp=CAU"      
-        }
-         {
-            "id": 5,
-            "nome":"Jared Leto",
-            "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/63/Joker_%282019%29.jpg/250px-Joker_%282019%29.jpg"      
-        }
-         {
-            "id": 6,
-            "nome":"Chris Hemsworth",
-            "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9f/Thor_Poster.jpg/250px-Thor_Poster.jpg"      
-        }
-         
-    ]
+ "atores": [
+      {
+          "id": 1,
+          "nome":"Robert Downey",
+          "avatar": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
+      }
+      {
+          "id": 2,
+          "nome":"Henry Cavill",
+          "avatar": "https://miro.medium.com/v2/resize:fit:1400/1*gOLsKIf2ciZsaXvsDrSqnQ.jpeg"      
+      }
+      {
+          "id": 3,
+          "nome":"Robert Pattinson",
+          "avatar": "https://i0.wp.com/tracklist.com.br/wp-content/uploads/2022/01/Batman-cartaz.jpg?fit=758%2C948&ssl=1"      
+      }
+      {
+          "id": 4,
+          "nome":"Gal Gadot",
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-Coz7aGQhxiL4qGLx5sSIQo7QTU34rOX2SvUqMqNTRtAlM0r_81iKAD0viZgIPCPxxs&usqp=CAU"      
+      }
+      {
+          "id": 5,
+          "nome":"Jared Leto",
+          "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/63/Joker_%282019%29.jpg/250px-Joker_%282019%29.jpg"      
+      }
+      {
+          "id": 6,
+          "nome":"Chris Hemsworth",
+          "avatar": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9f/Thor_Poster.jpg/250px-Thor_Poster.jpg"      
+      }
+  ]
   }
