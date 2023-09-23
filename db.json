@@ -19,31 +19,43 @@
     
     {
           "id": 3,
-          "titulo": "Homem de Ferro 11",
-          "resumo":"Filme do Homem de Ferro",
-          "atores":"Robert Downey",
-          "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
-          "duracao":140
-      }
+          "titulo": "Batman",
+          "resumo":"Eu sou o Batman, Julius Brooklyn 1986",
+          "atores":"Robert Pattinson",
+          "capa":"https://i0.wp.com/tracklist.com.br/wp-content/uploads/2022/01/Batman-cartaz.jpg?fit=758%2C948&ssl=1",
+          "duracao":120
+      },
+    {
+          "id": 4,
+          "titulo": "Mulher Maravilha",
+          "resumo":"Filme da Mulher Maravilha, é dento",
+          "atores":"Gal Gadot",
+          "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-Coz7aGQhxiL4qGLx5sSIQo7QTU34rOX2SvUqMqNTRtAlM0r_81iKAD0viZgIPCPxxs&usqp=CAU",
+          "duracao":160
+    },
+    {
+          "id": 5,
+          "titulo": "Coringa",
+          "resumo":"Só Deus sabe como ta a mente do palhaço",
+          "atores":"Jared Leto",
+          "capa":"https://upload.wikimedia.org/wikipedia/pt/thumb/6/63/Joker_%282019%29.jpg/250px-Joker_%282019%29.jpg",
+          "duracao":150  
+    },
+    {
+          "id": 6,
+          "titulo": "Thor",
+          "resumo":"Campeao do arremesso de martelo",
+          "atores":"Chris Hemsworth",
+          "capa":"https://upload.wikimedia.org/wikipedia/pt/thumb/9/9f/Thor_Poster.jpg/250px-Thor_Poster.jpg",
+          "duracao":130  
+    },
+    
   ],
    "atores": [
       {
           "id": 1,
-          "nome":"Robert Downey",
-          "avatar": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
-      }
-  ],
-  
-   "serties": [
-      {
-          "id": 1,
-          "nome":"Robert Downey",
-          "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
-      },
-      {
-          "id": 2,
-          "nome":"Robert Downey",
-          "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
+          "nome":"Robert Downey, Henry Cavill, Robert Pattinson, Gal Gadot, Jared Leto e Chris Hemsworth",
+          "avatar": "https://miro.medium.com/v2/resize:fit:1358/0*qdHImq1G588SB9Ii.jpg"      
       }
   ]
 }
