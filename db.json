@@ -3,17 +3,17 @@
     {
           "id": 1,
           "titulo": "Homem de Ferro 2",
-          "resumo":"Filme do Homem de Ferro",
+          "resumo":"Filme do Homem que se veste de lata",
           "atores":"Robert Downey",
-          "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+          "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7N_b-vwORDEgNSIssct5VjcZ-vuraqWfRIw&usqp=CAU",
           "duracao":140
       },
     {
           "id": 2,
-          "titulo": "Homem de Ferro 11",
-          "resumo":"Filme do Homem de Ferro",
-          "atores":"Robert Downey",
-          "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+          "titulo": "Superman",
+          "resumo":"To voando alto",
+          "atores":"Henry Cavill",
+          "capa":"https://miro.medium.com/v2/resize:fit:1400/1*gOLsKIf2ciZsaXvsDrSqnQ.jpeg",
           "duracao":140
       },
     
